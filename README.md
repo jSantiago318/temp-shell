@@ -1,10 +1,10 @@
-# simple_shell (Task 0.1 starter)
+# simple_shell
 
 This project is a minimal UNIX command line interpreter for the first checker step.
 
 ## What this version supports
 
-- Displays prompt `#holbieshell$ ` in interactive mode
+- Displays prompt `holbieshell$ ` in interactive mode
 - Reads one line with `getline`
 - Handles EOF (`Ctrl+D`) by exiting cleanly
 - Ignores blank/space-only lines
